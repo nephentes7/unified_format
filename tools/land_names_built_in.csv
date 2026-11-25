@@ -1,0 +1,95 @@
+﻿name,IPCC category,source
+f,Forest land,built-in
+forest,Forest land,built-in
+forestland,Forest land,built-in
+forest land,Forest land,built-in
+forests,Forest land,built-in
+terres forestieres,Forest land,built-in
+terre forestiere,Forest land,built-in
+foret,Forest land,built-in
+forets,Forest land,built-in
+tf,Forest land,built-in
+bosque,Forest land,built-in
+bosques,Forest land,built-in
+tierras forestales,Forest land,built-in
+terras florestais,Forest land,built-in
+floresta,Forest land,built-in
+fl,Forest land,built-in
+tierra forestal,Forest land,built-in
+terra florestal,Forest land,built-in
+florestas,Forest land,built-in
+foresta,Forest land,built-in
+terre forestali,Forest land,built-in
+c,Cropland,built-in
+cropland,Cropland,built-in
+croplands,Cropland,built-in
+crop land,Cropland,built-in
+terres cultivees,Cropland,built-in
+terre cultivee,Cropland,built-in
+tc,Cropland,built-in
+cultivos,Cropland,built-in
+tierras de cultivo,Cropland,built-in
+terras agricolas,Cropland,built-in
+cl,Cropland,built-in
+tierra de cultivo,Cropland,built-in
+tierras agricolas,Cropland,built-in
+tierra agricola,Cropland,built-in
+terra agricola,Cropland,built-in
+terras cultivadas,Cropland,built-in
+cultivo,Cropland,built-in
+g,Grassland,built-in
+grassland,Grassland,built-in
+grasslands,Grassland,built-in
+prairies,Grassland,built-in
+prairie,Grassland,built-in
+terres gramineennes,Grassland,built-in
+tg,Grassland,built-in
+pastizales,Grassland,built-in
+praderas,Grassland,built-in
+pastagens,Grassland,built-in
+gl,Grassland,built-in
+pastizal,Grassland,built-in
+pradera,Grassland,built-in
+pastagem,Grassland,built-in
+terres de prairie,Grassland,built-in
+pascolo,Grassland,built-in
+w,Wetlands,built-in
+wetland,Wetlands,built-in
+wetlands,Wetlands,built-in
+terres humides,Wetlands,built-in
+zones humides,Wetlands,built-in
+th,Wetlands,built-in
+humedales,Wetlands,built-in
+areas umidas,Wetlands,built-in
+wl,Wetlands,built-in
+humedal,Wetlands,built-in
+area umida,Wetlands,built-in
+zone humide,Wetlands,built-in
+zona umida,Wetlands,built-in
+s,Settlements,built-in
+settlement,Settlements,built-in
+settlements,Settlements,built-in
+etablissements,Settlements,built-in
+etablissement,Settlements,built-in
+etablissement humain,Settlements,built-in
+etablissements humains,Settlements,built-in
+eh,Settlements,built-in
+asentamientos,Settlements,built-in
+assentamentos,Settlements,built-in
+sl,Settlements,built-in
+asentamiento,Settlements,built-in
+assentamento,Settlements,built-in
+insediamenti,Settlements,built-in
+o,Other land,built-in
+other land,Other land,built-in
+otherland,Other land,built-in
+other lands,Other land,built-in
+autres terres,Other land,built-in
+autre terre,Other land,built-in
+at,Other land,built-in
+otras tierras,Other land,built-in
+outras terras,Other land,built-in
+ol,Other land,built-in
+otra tierra,Other land,built-in
+outra terra,Other land,built-in
+altre terre,Other land,built-in

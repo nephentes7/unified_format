@@ -1,0 +1,45 @@
+﻿word,activity,source
+Deforestation,Deforestation,built-in
+Degradation,Degradation,built-in
+Afforestation,Afforestation,built-in
+Enhancement,Enhancement,built-in
+Stable forest,Stable forest,built-in
+Stable non-forest,Stable non-forest,built-in
+Non-forest change,Non-forest change,built-in
+"Forest, other change","Forest, other change",built-in
+gain forestier,Afforestation,built-in
+boisement,Afforestation,built-in
+amelioration,Enhancement,built-in
+foret stable,Stable forest,built-in
+non forestiere stable,Stable non-forest,built-in
+non forestieres en changement,Non-forest change,built-in
+non forestiere en changement,Non-forest change,built-in
+deforestacion,Deforestation,built-in
+degradacion,Degradation,built-in
+forestacion,Afforestation,built-in
+mejora,Enhancement,built-in
+bosque estable,Stable forest,built-in
+desmatamento,Deforestation,built-in
+degradacao,Degradation,built-in
+florestamento,Afforestation,built-in
+gain,Afforestation,built-in
+forest gain,Afforestation,built-in
+reforestation,Afforestation,built-in
+reboisement,Afforestation,built-in
+gain de foret,Afforestation,built-in
+reforestacion,Afforestation,built-in
+reflorestamento,Afforestation,built-in
+loss,Deforestation,built-in
+forest loss,Deforestation,built-in
+perte,Deforestation,built-in
+perte forestiere,Deforestation,built-in
+perte de foret,Deforestation,built-in
+perdida de bosque,Deforestation,built-in
+regrowth,Enhancement,built-in
+regeneration,Enhancement,built-in
+recuperation,Enhancement,built-in
+degradation forestiere,Degradation,built-in
+degradacion forestal,Degradation,built-in
+non foret stable,Stable non-forest,built-in
+non forest stable,Stable non-forest,built-in
+no forest change,Non-forest change,built-in
