@@ -1,0 +1,201 @@
+id,location_x,location_y,operator,actively_saved,plot_file,lu_t2,lu_t2_label,sub_t2,sub_t2_label,event[1]_event_num,event[1]_change_yr,event[1]_change_yr_label,event[1]_from_lu,event[1]_from_lu_label,event[1]_from_sub,event[1]_from_sub_label,event[1]_disturbance,event[1]_driver_regrowth,event[2]_event_num,event[2]_change_yr,event[2]_change_yr_label,event[2]_from_lu,event[2]_from_lu_label,event[2]_from_sub,event[2]_from_sub_label,event[2]_disturbance,event[2]_driver_regrowth,event[3]_event_num,event[3]_change_yr,event[3]_change_yr_label,event[3]_from_lu,event[3]_from_lu_label,event[3]_from_sub,event[3]_from_sub_label,event[3]_disturbance,event[3]_driver_regrowth,uncert
+1201,10.040891,5.495602,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,1,2018,2018,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,medium
+1202,10.095631,5.509205,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2015,2015,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,low
+1203,10.150088,5.491023,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1204,10.209648,5.500746,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1205,10.255291,5.50627,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2022,2022,C,Cropland,annual_crop,Annual crop,,,2,2017,2017,F,Forest land,open_forest,Open forest,agriculture,,,,,,,,,,,medium
+1206,10.291183,5.498998,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1207,10.354129,5.496365,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1208,10.401474,5.502275,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,1,2014,2014,O,Other land,bare_soil,Bare soil,,,,,,,,,,,,,,,,,,,,,high
+1209,10.449161,5.503196,operator_B,true,demo_B.csv,G,Grassland,wooded_savanna,Wooded savanna,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1210,10.505877,5.502944,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1211,10.545239,5.495013,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,1,2019,2019,F,Forest land,open_forest,Open forest,logging,,,,,,,,,,,,,,,,,,,,medium
+1212,10.595134,5.501689,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1213,10.653107,5.505477,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1214,10.706808,5.504287,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,1,2020,2020,F,Forest land,dense_forest,Dense forest,fire,,,,,,,,,,,,,,,,,,,,low
+1215,10.745486,5.490789,operator_B,true,demo_B.csv,F,Forest land,riparian_forest,Riparian forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1216,10.80087,5.5019,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2014,2014,F,Forest land,dense_forest,Dense forest,logging,,,,,,,,,,,,,,,,,,,,low
+1217,10.840456,5.497285,operator_B,true,demo_B.csv,O,Other land,bare_soil,Bare soil,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1218,10.896638,5.501601,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1219,10.950641,5.504562,operator_B,true,demo_B.csv,F,Forest land,gallery_forest,Gallery forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1220,9.992155,5.54377,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1221,10.043354,5.545528,operator_B,true,demo_B.csv,S,Settlements,settlement,Settlement,1,2015,2015,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,low
+1222,10.10346,5.557485,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2018,2018,F,Forest land,dense_forest,Dense forest,logging,,,,,,,,,,,,,,,,,,,,high
+1223,10.152343,5.549948,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,1,2015,2015,G,Grassland,wooded_savanna,Wooded savanna,fire,,,,,,,,,,,,,,,,,,,,medium
+1224,10.202368,5.542368,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1225,10.242513,5.558309,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2018,2018,C,Cropland,annual_crop,Annual crop,,,2,2017,2017,F,Forest land,open_forest,Open forest,agriculture,,,,,,,,,,,low
+1226,10.300552,5.55027,operator_B,true,demo_B.csv,F,Forest land,gallery_forest,Gallery forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1227,10.347387,5.553389,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1228,10.401449,5.548319,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1229,10.455679,5.559498,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2022,2022,C,Cropland,annual_crop,Annual crop,,,,,,,,,,,,,,,,,,,,,medium
+1230,10.493874,5.556486,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1231,10.551691,5.548231,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,1,2018,2018,F,Forest land,dense_forest,Dense forest,fire,,,,,,,,,,,,,,,,,,,,low
+1232,10.604063,5.55701,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1233,10.658692,5.558505,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2017,2017,F,Forest land,dense_forest,Dense forest,logging,,,,,,,,,,,,,,,,,,,,high
+1234,10.706281,5.546956,operator_B,true,demo_B.csv,G,Grassland,wooded_savanna,Wooded savanna,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1235,10.740867,5.546341,operator_B,true,demo_B.csv,G,Grassland,wooded_savanna,Wooded savanna,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1236,10.795755,5.551948,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1237,10.841987,5.552048,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2020,2020,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,medium
+1238,10.894043,5.555159,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,1,2018,2018,F,Forest land,plantation,Plantation,fire,,,,,,,,,,,,,,,,,,,,low
+1239,10.955739,5.545402,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2019,2019,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,high
+1240,10.007455,5.609788,operator_B,true,demo_B.csv,S,Settlements,settlement,Settlement,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1241,10.046806,5.607158,operator_B,true,demo_B.csv,G,Grassland,wooded_savanna,Wooded savanna,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1242,10.105577,5.591077,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,1,2015,2015,G,Grassland,wooded_savanna,Wooded savanna,fire,,,,,,,,,,,,,,,,,,,,low
+1243,10.146155,5.591904,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1244,10.19951,5.592723,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1245,10.242501,5.602952,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,1,2018,2018,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,medium
+1246,10.30618,5.60891,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1247,10.356597,5.600908,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,1,2021,2021,C,Cropland,annual_crop,Annual crop,,,,,,,,,,,,,,,,,,,,,low
+1248,10.392889,5.597128,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1249,10.456317,5.60579,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1250,10.502509,5.599497,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1251,10.55515,5.595031,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2014,2014,F,Forest land,dense_forest,Dense forest,logging,,,,,,,,,,,,,,,,,,,,high
+1252,10.600523,5.593744,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,1,2014,2014,F,Forest land,plantation,Plantation,settlement,,,,,,,,,,,,,,,,,,,,medium
+1253,10.656055,5.596782,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1254,10.693321,5.601436,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1255,10.748925,5.598958,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1256,10.797286,5.609663,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1257,10.841965,5.604385,operator_B,true,demo_B.csv,F,Forest land,riparian_forest,Riparian forest,1,2016,2016,F,Forest land,gallery_forest,Gallery forest,,,,,,,,,,,,,,,,,,,,,medium
+1258,10.897096,5.607891,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1259,10.950043,5.607484,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1260,9.999015,5.659433,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1261,10.057513,5.65026,operator_B,true,demo_B.csv,F,Forest land,gallery_forest,Gallery forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1262,10.098658,5.642049,operator_B,true,demo_B.csv,G,Grassland,wooded_savanna,Wooded savanna,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1263,10.153878,5.650039,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1264,10.19017,5.656629,operator_B,true,demo_B.csv,G,Grassland,wooded_savanna,Wooded savanna,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1265,10.255845,5.653889,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1266,10.292333,5.6533,operator_B,true,demo_B.csv,O,Other land,bare_soil,Bare soil,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1267,10.345312,5.649901,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,1,2018,2018,W,Wetlands,water,Water,,,,,,,,,,,,,,,,,,,,,low
+1268,10.391951,5.65812,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1269,10.452836,5.659026,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1270,10.504237,5.652558,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1271,10.543822,5.645867,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1272,10.606998,5.657646,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,1,2015,2015,F,Forest land,open_forest,Open forest,agriculture,,,,,,,,,,,,,,,,,,,,low
+1273,10.652265,5.654109,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1274,10.705067,5.641865,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2014,2014,F,Forest land,dense_forest,Dense forest,fire,,,,,,,,,,,,,,,,,,,,medium
+1275,10.758938,5.655261,operator_B,true,demo_B.csv,W,Wetlands,water,Water,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1276,10.808239,5.64329,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,1,2019,2019,F,Forest land,dense_forest,Dense forest,logging,,,,,,,,,,,,,,,,,,,,low
+1277,10.848563,5.657104,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1278,10.905383,5.655081,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1279,10.94472,5.655003,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1280,10.003861,5.709733,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1281,10.049357,5.703985,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,1,2015,2015,F,Forest land,dense_forest,Dense forest,logging,,,,,,,,,,,,,,,,,,,,low
+1282,10.10601,5.697037,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1283,10.151426,5.694245,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1284,10.195527,5.692173,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1285,10.24849,5.694253,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1286,10.300154,5.695405,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,1,2017,2017,O,Other land,bare_soil,Bare soil,,,,,,,,,,,,,,,,,,,,,medium
+1287,10.351041,5.696569,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1288,10.408198,5.699861,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2015,2015,F,Forest land,dense_forest,Dense forest,fire,,,,,,,,,,,,,,,,,,,,high
+1289,10.442125,5.699811,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1290,10.50174,5.701067,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2018,2018,C,Cropland,annual_crop,Annual crop,,,,,,,,,,,,,,,,,,,,,high
+1291,10.548487,5.708433,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2016,2016,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,low
+1292,10.607628,5.706174,operator_B,true,demo_B.csv,F,Forest land,riparian_forest,Riparian forest,1,2018,2018,F,Forest land,gallery_forest,Gallery forest,,,,,,,,,,,,,,,,,,,,,medium
+1293,10.646812,5.70434,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,1,2020,2020,G,Grassland,wooded_savanna,Wooded savanna,,,,,,,,,,,,,,,,,,,,,medium
+1294,10.709749,5.700269,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1295,10.750411,5.692544,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,1,2014,2014,F,Forest land,dense_forest,Dense forest,logging,,,,,,,,,,,,,,,,,,,,low
+1296,10.79515,5.693814,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1297,10.844908,5.703076,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1298,10.907736,5.702665,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1299,10.950905,5.700194,operator_B,true,demo_B.csv,O,Other land,bare_soil,Bare soil,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1300,10.005206,5.743117,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,1,2016,2016,F,Forest land,open_forest,Open forest,mining,,,,,,,,,,,,,,,,,,,,low
+1301,10.051029,5.758189,operator_B,true,demo_B.csv,O,Other land,bare_soil,Bare soil,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1302,10.094056,5.746555,operator_B,true,demo_B.csv,F,Forest land,riparian_forest,Riparian forest,1,2014,2014,F,Forest land,gallery_forest,Gallery forest,,,,,,,,,,,,,,,,,,,,,high
+1303,10.158387,5.752058,operator_B,true,demo_B.csv,F,Forest land,riparian_forest,Riparian forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1304,10.202944,5.741049,operator_B,true,demo_B.csv,O,Other land,bare_soil,Bare soil,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1305,10.250666,5.754263,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1306,10.302851,5.741026,operator_B,true,demo_B.csv,W,Wetlands,water,Water,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1307,10.345913,5.756268,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2014,2014,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,high
+1308,10.39893,5.75472,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1309,10.453513,5.740405,operator_B,true,demo_B.csv,G,Grassland,wooded_savanna,Wooded savanna,1,2020,2020,O,Other land,bare_soil,Bare soil,,,,,,,,,,,,,,,,,,,,,low
+1310,10.509105,5.756657,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,1,2018,2018,F,Forest land,open_forest,Open forest,mining,,,,,,,,,,,,,,,,,,,,medium
+1311,10.559585,5.742379,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1312,10.605575,5.754744,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2016,2016,F,Forest land,dense_forest,Dense forest,logging,,,,,,,,,,,,,,,,,,,,medium
+1313,10.652746,5.744172,operator_B,true,demo_B.csv,W,Wetlands,water,Water,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1314,10.707835,5.740531,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1315,10.745745,5.747148,operator_B,true,demo_B.csv,F,Forest land,gallery_forest,Gallery forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1316,10.803993,5.752416,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1317,10.842621,5.753714,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,1,2021,2021,F,Forest land,open_forest,Open forest,logging,,,,,,,,,,,,,,,,,,,,medium
+1318,10.898925,5.756796,operator_B,true,demo_B.csv,F,Forest land,gallery_forest,Gallery forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1319,10.946892,5.757038,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1320,9.99043,5.792327,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1321,10.045872,5.790707,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1322,10.096377,5.807183,operator_B,true,demo_B.csv,S,Settlements,settlement,Settlement,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1323,10.145617,5.798862,operator_B,true,demo_B.csv,O,Other land,bare_soil,Bare soil,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1324,10.192965,5.791503,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1325,10.259934,5.807341,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,1,2014,2014,F,Forest land,open_forest,Open forest,logging,,,,,,,,,,,,,,,,,,,,medium
+1326,10.296924,5.800551,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1327,10.353697,5.806634,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,1,2015,2015,W,Wetlands,water,Water,,,,,,,,,,,,,,,,,,,,,medium
+1328,10.407609,5.797378,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,1,2016,2016,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,low
+1329,10.44751,5.793574,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1330,10.505627,5.79717,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1331,10.556223,5.790513,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1332,10.608448,5.807736,operator_B,true,demo_B.csv,W,Wetlands,water,Water,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1333,10.648355,5.794738,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,1,2018,2018,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,medium
+1334,10.700383,5.802308,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,1,2021,2021,F,Forest land,dense_forest,Dense forest,fire,,,,,,,,,,,,,,,,,,,,low
+1335,10.759439,5.808677,operator_B,true,demo_B.csv,F,Forest land,gallery_forest,Gallery forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1336,10.802212,5.805413,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2021,2021,F,Forest land,dense_forest,Dense forest,logging,,,,,,,,,,,,,,,,,,,,high
+1337,10.845478,5.795552,operator_B,true,demo_B.csv,F,Forest land,gallery_forest,Gallery forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1338,10.907533,5.792135,operator_B,true,demo_B.csv,F,Forest land,riparian_forest,Riparian forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1339,10.951416,5.790261,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1340,10.009746,5.85482,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,1,2016,2016,W,Wetlands,water,Water,,,,,,,,,,,,,,,,,,,,,low
+1341,10.055283,5.850225,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1342,10.095097,5.850307,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1343,10.15129,5.842796,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1344,10.206051,5.850725,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2015,2015,F,Forest land,dense_forest,Dense forest,fire,,,,,,,,,,,,,,,,,,,,medium
+1345,10.250693,5.85096,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,1,2014,2014,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,low
+1346,10.309809,5.85568,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,1,2014,2014,F,Forest land,plantation,Plantation,fire,,,,,,,,,,,,,,,,,,,,low
+1347,10.350617,5.858598,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1348,10.403583,5.850425,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,1,2022,2022,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,high
+1349,10.442918,5.842806,operator_B,true,demo_B.csv,G,Grassland,wooded_savanna,Wooded savanna,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1350,10.495818,5.84429,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1351,10.544697,5.848185,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1352,10.600798,5.841654,operator_B,true,demo_B.csv,O,Other land,bare_soil,Bare soil,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1353,10.655526,5.856775,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1354,10.700737,5.851898,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1355,10.753854,5.8412,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1356,10.790685,5.846654,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,1,2015,2015,F,Forest land,dense_forest,Dense forest,agriculture,,,,,,,,,,,,,,,,,,,,medium
+1357,10.858566,5.846816,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1358,10.891007,5.848653,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1359,10.955612,5.842565,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1360,9.998283,5.908976,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1361,10.054183,5.89375,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2016,2016,F,Forest land,dense_forest,Dense forest,logging,,,,,,,,,,,,,,,,,,,,high
+1362,10.100865,5.901018,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1363,10.14104,5.909501,operator_B,true,demo_B.csv,G,Grassland,wooded_savanna,Wooded savanna,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1364,10.205088,5.908053,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,1,2017,2017,F,Forest land,open_forest,Open forest,logging,,,,,,,,,,,,,,,,,,,,high
+1365,10.257111,5.895603,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,1,2018,2018,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,high
+1366,10.292801,5.90807,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1367,10.345393,5.905719,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1368,10.391803,5.904356,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1369,10.451227,5.904219,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2022,2022,C,Cropland,annual_crop,Annual crop,,,2,2015,2015,F,Forest land,open_forest,Open forest,agriculture,,,,,,,,,,,medium
+1370,10.506717,5.90939,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1371,10.541706,5.898603,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1372,10.591401,5.906779,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,1,2014,2014,F,Forest land,open_forest,Open forest,logging,,,,,,,,,,,,,,,,,,,,medium
+1373,10.648236,5.907331,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1374,10.707755,5.905331,operator_B,true,demo_B.csv,G,Grassland,wooded_savanna,Wooded savanna,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1375,10.757787,5.89233,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,1,2014,2014,F,Forest land,open_forest,Open forest,settlement,,,,,,,,,,,,,,,,,,,,medium
+1376,10.792122,5.902205,operator_B,true,demo_B.csv,O,Other land,bare_soil,Bare soil,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1377,10.852931,5.900802,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,1,2014,2014,F,Forest land,open_forest,Open forest,fire,,,,,,,,,,,,,,,,,,,,low
+1378,10.907772,5.896744,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1379,10.945946,5.902669,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1380,9.995431,5.946003,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2021,2021,C,Cropland,annual_crop,Annual crop,,,2,2018,2018,F,Forest land,open_forest,Open forest,agriculture,,,,,,,,,,,high
+1381,10.052315,5.948686,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,1,2016,2016,F,Forest land,open_forest,Open forest,agriculture,,,,,,,,,,,,,,,,,,,,high
+1382,10.101482,5.944732,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1383,10.150623,5.956278,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,1,2019,2019,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,medium
+1384,10.196769,5.949007,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2016,2016,F,Forest land,dense_forest,Dense forest,logging,,,,,,,,,,,,,,,,,,,,medium
+1385,10.243233,5.942271,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1386,10.309244,5.95483,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1387,10.340186,5.957239,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1388,10.407627,5.957099,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,1,2016,2016,C,Cropland,annual_crop,Annual crop,,,,,,,,,,,,,,,,,,,,,medium
+1389,10.442197,5.940261,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1390,10.50893,5.95581,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,1,2014,2014,S,Settlements,settlement,Settlement,,,,,,,,,,,,,,,,,,,,,high
+1391,10.55755,5.952712,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,low
+1392,10.60736,5.952689,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1393,10.659077,5.959077,operator_B,true,demo_B.csv,F,Forest land,dense_forest,Dense forest,1,2014,2014,F,Forest land,dense_forest,Dense forest,logging,,,,,,,,,,,,,,,,,,,,low
+1394,10.70968,5.946976,operator_B,true,demo_B.csv,C,Cropland,tree_crop,Tree crop,1,2017,2017,F,Forest land,dense_forest,Dense forest,mining,,,,,,,,,,,,,,,,,,,,low
+1395,10.748452,5.950707,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1396,10.806719,5.946963,operator_B,true,demo_B.csv,C,Cropland,annual_crop,Annual crop,1,2015,2015,F,Forest land,dense_forest,Dense forest,fire,,,,,,,,,,,,,,,,,,,,medium
+1397,10.853033,5.943433,operator_B,true,demo_B.csv,F,Forest land,plantation,Plantation,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1398,10.90954,5.957731,operator_B,true,demo_B.csv,G,Grassland,grassland,Grassland,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
+1399,10.941237,5.959386,operator_B,true,demo_B.csv,F,Forest land,open_forest,Open forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,high
+1400,10.004488,6.006598,operator_B,true,demo_B.csv,F,Forest land,riparian_forest,Riparian forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,medium
